@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webhint": "hint http://localhost:8080"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/resul-elezi/my-portfolio/issues"
   },
-  "homepage": "https://github.com/resul-elezi/my-portfolio#readme"
+  "homepage": "https://github.com/resul-elezi/my-portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.13"
+  }
 }

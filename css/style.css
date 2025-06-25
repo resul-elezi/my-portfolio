@@ -84,6 +84,57 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   :root {
+    /* Color Scheme Mode */
+    --primitive-slate-50: #f8fafc;
+    --primitive-slate-100: #f1f5f9;
+    --primitive-slate-200: #e2e8f0;
+    --primitive-slate-300: #cad5e2;
+    --primitive-slate-400: #90a1b9;
+    --primitive-slate-500: #62748e;
+    --primitive-slate-600: #45556c;
+    --primitive-slate-700: #314158;
+    --primitive-slate-800: #1d293d;
+    --primitive-slate-900: #0f172b;
+    --primitive-slate-950: #020618;
+
+    --primitive-orange-50: #fff7ed;
+    --primitive-orange-100: #ffedd4;
+    --primitive-orange-200: #ffd6a7;
+    --primitive-orange-300: #ffb86a;
+    --primitive-orange-400: #ff8904;
+    --primitive-orange-500: #ff6900;
+    --primitive-orange-600: #f54900;
+    --primitive-orange-700: #ca3500;
+    --primitive-orange-800: #9f2d00;
+    --primitive-orange-900: #7e2a0c;
+    --primitive-orange-950: #441306;
+
+    --primitive-teal-50: #f0fdfa;
+    --primitive-teal-100: #cbfbf1;
+    --primitive-teal-200: #96f7e4;
+    --primitive-teal-300: #46ecd5;
+    --primitive-teal-400: #00d5be;
+    --primitive-teal-500: #00bba7;
+    --primitive-teal-600: #009689;
+    --primitive-teal-700: #00786f;
+    --primitive-teal-800: #005f5a;
+    --primitive-teal-900: #0b4f4a;
+    --primitive-teal-950: #022f2e;
+
+    --primitive-indigo-50: #eef2ff;
+    --primitive-indigo-100: #e0e7ff;
+    --primitive-indigo-200: #c6d2ff;
+    --primitive-indigo-300: #a3b3ff;
+    --primitive-indigo-400: #7c86ff;
+    --primitive-indigo-500: #615fff;
+    --primitive-indigo-600: #4f39f6;
+    --primitive-indigo-700: #432dd7;
+    --primitive-indigo-800: #372aac;
+    --primitive-indigo-900: #312c85;
+    --primitive-indigo-950: #1e1a4d;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */

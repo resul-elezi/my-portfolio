@@ -1,52 +1,6 @@
 /* Color Scheme.Mode 1.tokens.json */
 
 {
-    "indigo": {
-      "50": {
-        "type": "color",
-        "value": "#eef2ff"
-      },
-      "100": {
-        "type": "color",
-        "value": "#e0e7ff"
-      },
-      "200": {
-        "type": "color",
-        "value": "#c6d2ff"
-      },
-      "300": {
-        "type": "color",
-        "value": "#a3b3ff"
-      },
-      "400": {
-        "type": "color",
-        "value": "#7c86ff"
-      },
-      "500": {
-        "type": "color",
-        "value": "#615fff"
-      },
-      "600": {
-        "type": "color",
-        "value": "#4f39f6"
-      },
-      "700": {
-        "type": "color",
-        "value": "#432dd7"
-      },
-      "800": {
-        "type": "color",
-        "value": "#372aac"
-      },
-      "900": {
-        "type": "color",
-        "value": "#312c85"
-      },
-      "950": {
-        "type": "color",
-        "value": "#1e1a4d"
-      }
-    },
     "purple": {
       "50": {
         "type": "color",

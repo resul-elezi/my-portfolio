@@ -1,52 +1,6 @@
 /* Color Scheme.Mode 1.tokens.json */
 
 {
-    "rose": {
-      "50": {
-        "type": "color",
-        "value": "#fff1f2"
-      },
-      "100": {
-        "type": "color",
-        "value": "#ffe4e6"
-      },
-      "200": {
-        "type": "color",
-        "value": "#ffccd2"
-      },
-      "300": {
-        "type": "color",
-        "value": "#ffa1ad"
-      },
-      "400": {
-        "type": "color",
-        "value": "#ff637e"
-      },
-      "500": {
-        "type": "color",
-        "value": "#ff2056"
-      },
-      "600": {
-        "type": "color",
-        "value": "#ec003f"
-      },
-      "700": {
-        "type": "color",
-        "value": "#c60036"
-      },
-      "800": {
-        "type": "color",
-        "value": "#a50036"
-      },
-      "900": {
-        "type": "color",
-        "value": "#8b0836"
-      },
-      "950": {
-        "type": "color",
-        "value": "#4d0218"
-      }
-    },
     "grey": {
       "50": {
         "type": "color",

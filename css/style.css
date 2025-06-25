@@ -133,6 +133,18 @@ textarea {
     --primitive-indigo-800: #372aac;
     --primitive-indigo-900: #312c85;
     --primitive-indigo-950: #1e1a4d;
+
+    --primitive-purple-50: #faf5ff;
+    --primitive-purple-100: #f3e8ff;
+    --primitive-purple-200: #e9d4ff;
+    --primitive-purple-300: #dab2ff;
+    --primitive-purple-400: #c27aff;
+    --primitive-purple-500: #ad46ff;
+    --primitive-purple-600: #9810fa;
+    --primitive-purple-700: #8200db;
+    --primitive-purple-800: #6e11b0;
+    --primitive-purple-900: #59168b;
+    --primitive-purple-950: #3c0366;
 }
 
 /* ==========================================================================

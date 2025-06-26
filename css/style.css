@@ -312,7 +312,26 @@ textarea {
 
     /* Typography Mode */
 
-    
+    --font-size-sm: .875rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.125rem;
+
+    --heading-h6: 1.25rem;
+    --heading-h5: 1.5rem;
+    --heading-h4: 1.875rem;
+    --heading-h3: 2.25rem;
+    --heading-h2: 3rem;
+    --heading-h1: 3.75rem;
+
+    --line-height-sm: 1.4;
+    --line-height-md: 1.5;
+    --line-height-lg: 1.5;
+    --line-height-h6: 1.5;
+    --line-height-h5: 1.4;
+    --line-height-h4: 1.4;
+    --line-height-h3: 1.3;
+    --line-height-h2: 1.2;
+    --line-height-h1: 1.1;
 }
 
 /* ==========================================================================

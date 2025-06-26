@@ -411,7 +411,7 @@ nav a {
   line-height: var(--line-height-md);
   padding: var(--spacing-05) var(--spacing-07);
   border-right: 1px var(--theme-stroke) solid;
-  border-bottom: 3px transparent inset;
+  /* border-bottom: 3px transparent inset; */
 }
 nav > a:last-child {
   margin-left: auto;
@@ -432,7 +432,8 @@ nav > a:last-child {
 }
 
 .active-nav {
-  border-bottom: 3px var(--primary-background) inset;
+  /* border-bottom: 3px var(--primary-background) inset; */
+  box-shadow: inset 0 -3px var(--primary-background);
   color: var(--theme-heading-foreground);
 }
 .footer-nav {

@@ -477,6 +477,7 @@ nav > a:last-child {
 .copyright a {
   border: none;
   padding-inline: 0 var(--spacing-03);
+  color: var(--primitive-slate-600);
 }
 .git-link {
   display: inline;

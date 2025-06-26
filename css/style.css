@@ -394,7 +394,7 @@ html {
   color: var(--theme-foreground);
 }
 body {
-  max-width: 111.25rem;
+  max-width: 110rem;
   margin: 4.5rem auto;
   background: var(--theme-background);
   border: var(--theme-stroke) 1px solid;

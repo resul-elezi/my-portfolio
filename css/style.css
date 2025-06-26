@@ -401,6 +401,9 @@ body {
   border: 1px var(--theme-stroke) solid;
   border-radius: var(--radius-03);
 }
+header {
+  border-bottom: 1px var(--theme-stroke) solid;
+}
 nav a {
   color: var(--theme-foreground);
   text-decoration: none;
@@ -412,11 +415,12 @@ nav a {
 nav > a:last-child {
   margin-left: auto;
   border-right: none;
+  border-left: 1px var(--theme-stroke) solid;
 }
 .main-nav {
   display: flex;
   align-items: center;
-  border-bottom: 1px var(--theme-stroke) solid;
+  /* border-bottom: 1px var(--theme-stroke) solid; */
 }
 .logo {
   flex-basis: 17.5%;

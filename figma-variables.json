@@ -2,28 +2,6 @@
 
 {
   
-    "error": {
-      "background": {
-        "type": "color",
-        "value": "{primitive.red.500}"
-      },
-      "inverted": {
-        "type": "color",
-        "value": "{primitive.slate.950}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{primitive.red.400}"
-      },
-      "hover-inverted": {
-        "type": "color",
-        "value": "{primitive.slate.950}"
-      },
-      "alpha": {
-        "type": "color",
-        "value": "{primitive.red alpha.950}"
-      }
-    },
     "warning": {
       "background": {
         "type": "color",

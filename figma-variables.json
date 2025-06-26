@@ -1,52 +1,6 @@
 /* Color Scheme.Mode 1.tokens.json */
 
 {
-    "grey alpha": {
-      "50": {
-        "type": "color",
-        "value": "rgba(255, 255, 255, 0.0200)"
-      },
-      "100": {
-        "type": "color",
-        "value": "rgba(245, 245, 245, 0.0400)"
-      },
-      "200": {
-        "type": "color",
-        "value": "rgba(229, 229, 229, 0.0600)"
-      },
-      "300": {
-        "type": "color",
-        "value": "rgba(209, 213, 220, 0.0800)"
-      },
-      "400": {
-        "type": "color",
-        "value": "rgba(212, 212, 212, 0.1200)"
-      },
-      "500": {
-        "type": "color",
-        "value": "rgba(161, 161, 161, 0.1400)"
-      },
-      "600": {
-        "type": "color",
-        "value": "rgba(115, 115, 115, 0.1600)"
-      },
-      "700": {
-        "type": "color",
-        "value": "rgba(82, 82, 82, 0.2000)"
-      },
-      "800": {
-        "type": "color",
-        "value": "rgba(64, 64, 64, 0.2400)"
-      },
-      "900": {
-        "type": "color",
-        "value": "rgba(23, 23, 23, 0.3200)"
-      },
-      "950": {
-        "type": "color",
-        "value": "rgba(10, 10, 10, 0.4000)"
-      }
-    },
     "red": {
       "50": {
         "type": "color",

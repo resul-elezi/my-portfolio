@@ -469,8 +469,6 @@ nav > a:last-child {
   color: var(--primitive-slate-600);
   font-size: var(--font-size-sm);
   font-weight: 300;
-  line-height: var(--line-height-sm);
-  
 }
 .slash {
   font-size: var(--font-size-md);

@@ -274,6 +274,12 @@ textarea {
     --success-hover: var(--primitive-green-400);
     --success-hover-inverted: var(--primitive-slate-950);
     --success-alpha: var(--primitive-green-alpha-950);
+
+    --error-background: var(--primitive-red-500);
+    --error-
+    --error-
+    --error-
+    --error-
 }
 
 /* ==========================================================================

@@ -264,7 +264,16 @@ textarea {
     --theme-link-foreground: var(--primitive-rose-300);
     --theme-link-hover-foreground: var(--primitive-rose-200);
 
+    --primary-background: var(--primitive-orange-300);
+    --primary-inverted: var(--primitive-slate-950);
+    --primary-hover: var(--primitive-orange-200);
+    --primary-hover-inverted: var(--primitive-slate-950);
     
+    --success-
+    --success-
+    --success-
+    --success-
+    --success-
 }
 
 /* ==========================================================================

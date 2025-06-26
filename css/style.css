@@ -193,6 +193,18 @@ textarea {
     --primitive-red-800: #9f0712;
     --primitive-red-900: #82181a;
     --primitive-red-950: #460809;
+
+    --primitive-red-alpha-50: rgba(254, 242, 242, .02);
+    --primitive-red-alpha-100: rgba(255, 226, 226, .04);
+    --primitive-red-alpha-200: rgba(255, 201, 201, .06);
+    --primitive-red-alpha-300: rgba(255, 162, 162, .08);
+    --primitive-red-alpha-400: rgba(255, 100, 103, .12);
+    --primitive-red-alpha-500: rgba(251, 44, 54, .14);
+    --primitive-red-alpha-600: rgba(231, 0, 11, .16);
+    --primitive-red-alpha-700: rgba(193, 0, 7, .2);
+    --primitive-red-alpha-800: rgba(159, 7, 18, .24);
+    --primitive-red-alpha-900: rgba(130, 24, 26, .28);
+    --primitive-red-alpha-950: rgba(70, 8, 9, .3);
 }
 
 /* ==========================================================================

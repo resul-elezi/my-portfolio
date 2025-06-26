@@ -1,32 +1,5 @@
 
 
-{
-  
-    "warning": {
-      "background": {
-        "type": "color",
-        "value": "{primitive.yellow.500}"
-      },
-      "inverted": {
-        "type": "color",
-        "value": "{primitive.slate.950}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{primitive.yellow.400}"
-      },
-      "hover-inverted": {
-        "type": "color",
-        "value": "{primitive.slate.950}"
-      },
-      "alpha": {
-        "type": "color",
-        "value": "{primitive.yellow alpha.950}"
-      }
-    }
-  }
-}
-
 
 /* Spacing scale.Mode 1.tokens.json */
 

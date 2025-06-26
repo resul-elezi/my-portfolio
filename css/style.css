@@ -255,6 +255,16 @@ textarea {
     --primitive-yellow-alpha-950: rgba(67, 32, 4, .3);
 
     /* Alias Mode */
+
+    --theme-backdrop: var(--primitive-slate-950);
+    --theme-background: var(--primitive-slate-900);
+    --theme-stroke: var(--primitive-slate-700);
+    --theme-heading-foreground: var(--primitive-slate-050);
+    --theme-foreground: var(--primitive-slate-400);
+    --theme-link-foreground: var(--primitive-rose-300);
+    --theme-link-hover-foreground: var(--primitive-rose-200);
+
+    
 }
 
 /* ==========================================================================

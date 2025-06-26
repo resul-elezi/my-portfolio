@@ -86,7 +86,7 @@ textarea {
 
    :root {
     /* Color Scheme Mode */
-    --primitive-slate-50: #f8fafc;
+    --primitive-slate-050: #f8fafc;
     --primitive-slate-100: #f1f5f9;
     --primitive-slate-200: #e2e8f0;
     --primitive-slate-300: #cad5e2;
@@ -98,7 +98,7 @@ textarea {
     --primitive-slate-900: #0f172b;
     --primitive-slate-950: #020618;
 
-    --primitive-orange-50: #fff7ed;
+    --primitive-orange-050: #fff7ed;
     --primitive-orange-100: #ffedd4;
     --primitive-orange-200: #ffd6a7;
     --primitive-orange-300: #ffb86a;
@@ -110,7 +110,7 @@ textarea {
     --primitive-orange-900: #7e2a0c;
     --primitive-orange-950: #441306;
 
-    --primitive-teal-50: #f0fdfa;
+    --primitive-teal-050: #f0fdfa;
     --primitive-teal-100: #cbfbf1;
     --primitive-teal-200: #96f7e4;
     --primitive-teal-300: #46ecd5;
@@ -122,7 +122,7 @@ textarea {
     --primitive-teal-900: #0b4f4a;
     --primitive-teal-950: #022f2e;
 
-    --primitive-indigo-50: #eef2ff;
+    --primitive-indigo-050: #eef2ff;
     --primitive-indigo-100: #e0e7ff;
     --primitive-indigo-200: #c6d2ff;
     --primitive-indigo-300: #a3b3ff;
@@ -134,7 +134,7 @@ textarea {
     --primitive-indigo-900: #312c85;
     --primitive-indigo-950: #1e1a4d;
 
-    --primitive-purple-50: #faf5ff;
+    --primitive-purple-050: #faf5ff;
     --primitive-purple-100: #f3e8ff;
     --primitive-purple-200: #e9d4ff;
     --primitive-purple-300: #dab2ff;
@@ -146,7 +146,7 @@ textarea {
     --primitive-purple-900: #59168b;
     --primitive-purple-950: #3c0366;
 
-    --primitive-rose-50: #fff1f2;
+    --primitive-rose-050: #fff1f2;
     --primitive-rose-100: #ffe4e6;
     --primitive-rose-200: #ffccd2;
     --primitive-rose-300: #ffa1ad;
@@ -158,7 +158,7 @@ textarea {
     --primitive-rose-900: #8b0836;
     --primitive-rose-950: #4d0218;
 
-    --primitive-grey-50: #ffffff;
+    --primitive-grey-050: #ffffff;
     --primitive-grey-100: #f5f5f5;
     --primitive-grey-200: #e5e5e5;
     --primitive-grey-300: #d1d5dc;
@@ -170,7 +170,7 @@ textarea {
     --primitive-grey-900: #171717;
     --primitive-grey-950: #0a0a0a;
 
-    --primitive-grey-alpha-50: rgba(255, 255, 255, .02);
+    --primitive-grey-alpha-050: rgba(255, 255, 255, .02);
     --primitive-grey-alpha-100: rgba(245, 245, 245, .04);
     --primitive-grey-alpha-200: rgba(229, 229, 229, .06);
     --primitive-grey-alpha-300: rgba(209, 213, 220, .08);
@@ -182,7 +182,7 @@ textarea {
     --primitive-grey-alpha-900: rgba(23, 23, 23, .32);
     --primitive-grey-alpha-950: rgba(10, 10, 10, .4);
 
-    --primitive-red-50: #fef2f2;
+    --primitive-red-050: #fef2f2;
     --primitive-red-100: #ffe2e2;
     --primitive-red-200: #ffc9c9;
     --primitive-red-300: #ffa2a2;
@@ -194,7 +194,7 @@ textarea {
     --primitive-red-900: #82181a;
     --primitive-red-950: #460809;
 
-    --primitive-red-alpha-50: rgba(254, 242, 242, .02);
+    --primitive-red-alpha-050: rgba(254, 242, 242, .02);
     --primitive-red-alpha-100: rgba(255, 226, 226, .04);
     --primitive-red-alpha-200: rgba(255, 201, 201, .06);
     --primitive-red-alpha-300: rgba(255, 162, 162, .08);
@@ -206,7 +206,7 @@ textarea {
     --primitive-red-alpha-900: rgba(130, 24, 26, .28);
     --primitive-red-alpha-950: rgba(70, 8, 9, .3);
 
-    --primitive-green-50: #f0fdf4;
+    --primitive-green-050: #f0fdf4;
     --primitive-green-100: #dcfce7;
     --primitive-green-200: #b9f8cf;
     --primitive-green-300: #7bf1a7;

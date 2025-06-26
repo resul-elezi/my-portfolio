@@ -1,57 +1,7 @@
 
 
-
-/* Alias.Mode 1.tokens.json */
-
 {
-  "theme": {
-    "theme-backdrop": {
-      "type": "color",
-      "value": "{primitive.slate.950}"
-    },
-    "theme-background": {
-      "type": "color",
-      "value": "{primitive.slate.900}"
-    },
-    "theme-stroke": {
-      "type": "color",
-      "value": "{primitive.slate.700}"
-    },
-    "heading-foreground": {
-      "type": "color",
-      "value": "{primitive.slate.50}"
-    },
-    "foreground": {
-      "type": "color",
-      "value": "{primitive.slate.400}"
-    },
-    "link-foreground": {
-      "type": "color",
-      "value": "{primitive.rose.300}"
-    },
-    "link-hover-foreground": {
-      "type": "color",
-      "value": "{primitive.rose.200}"
-    }
-  },
-  "primary": {
-    "background": {
-      "type": "color",
-      "value": "{primitive.orange.300}"
-    },
-    "inverted": {
-      "type": "color",
-      "value": "{primitive.slate.950}"
-    },
-    "hover": {
-      "type": "color",
-      "value": "{primitive.orange.200}"
-    },
-    "hover inverted": {
-      "type": "color",
-      "value": "{primitive.slate.950}"
-    }
-  },
+  
   "semantic": {
     "success": {
       "background": {

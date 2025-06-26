@@ -468,10 +468,11 @@ nav > a:last-child {
   color: var(--primitive-slate-600);
   font-size: var(--font-size-sm);
   font-weight: 300;
-  /* justify-content: space-around; */
+  
 }
-.copyright > span {
-  padding-right: var(--spacing-02);
+.designer span,
+.dev span {
+  padding-left: var(--spacing-03);
 }
 .copyright a {
   border: none;

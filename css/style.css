@@ -280,6 +280,12 @@ textarea {
     --error-hover: var(--primitive-red-400);
     --error-hover-inverted: var(--primitive-slate-950);
     --error-alpha: var(--primitive-red-alpha-950);
+
+    --warning-background: var(--primitive-yellow-500);
+    --warning-inverted: var(--primitive-slate-950);
+    --warning-hover: var(--primitive-yellow-400);
+    --warning-hover-inverted: var(--primitive-slate-950);
+    --warning-alpha: var(--primitive-yellow-alpha-950);
 }
 
 /* ==========================================================================

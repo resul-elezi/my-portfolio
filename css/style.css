@@ -299,6 +299,9 @@ textarea {
     --spacing-08: 2.5rem;
     --spacing-09: 3rem;
     --spacing-10: 4rem;
+
+    --button-top-bottom: .625rem;
+    --button-left-right: .75rem;
 }
 
 /* ==========================================================================

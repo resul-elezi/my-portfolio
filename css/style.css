@@ -409,13 +409,16 @@ nav a {
   padding: var(--spacing-05) var(--spacing-07);
   border-right: 1px var(--theme-stroke) solid;
 }
+nav > a:last-child {
+  border-right: none;
+}
 .main-nav {
-  /* padding: var(--spacing-05) var(--spacing-06); */
   display: flex;
   justify-content: space-between;
   border-bottom: 1px var(--theme-stroke) solid;
 }
 .nav-links {
+  justify-self: flex-start;
   display: flex;
   justify-content: center;
 }

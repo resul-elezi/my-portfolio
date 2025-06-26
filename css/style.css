@@ -393,6 +393,13 @@ html {
   font-weight: normal;
   color: var(--theme-foreground);
 }
+body {
+  max-width: 111.25rem;
+  margin: 4.5rem auto;
+  background: var(--theme-background);
+  border: var(--theme-stroke) 1px solid;
+  border-radius: var(--radius-03);
+}
 nav a {
   color: var(--theme-foreground);
 }

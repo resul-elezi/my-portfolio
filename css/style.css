@@ -445,6 +445,7 @@ nav > a:last-child {
 }
 .footer-nav a {
   border-bottom: none;
+  color: var(--primitive-slate-500);
 }
 .footer-nav a:hover {
   color: red;
@@ -465,6 +466,9 @@ nav > a:last-child {
   margin-left: auto;
   padding-right: 0;
   border-left: 1px var(--theme-stroke) solid;
+}
+.git-link span {
+  color: var(--theme-foreground);
 }
 /* ==========================================================================
    Helper classes

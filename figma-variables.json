@@ -1,56 +1,5 @@
 
 
-{
-    
-    "yellow alpha": {
-      "50": {
-        "type": "color",
-        "value": "rgba(254, 252, 232, 0.0200)"
-      },
-      "100": {
-        "type": "color",
-        "value": "rgba(254, 249, 194, 0.0400)"
-      },
-      "200": {
-        "type": "color",
-        "value": "rgba(255, 240, 133, 0.0600)"
-      },
-      "300": {
-        "type": "color",
-        "value": "rgba(255, 223, 32, 0.0800)"
-      },
-      "400": {
-        "type": "color",
-        "value": "rgba(253, 199, 0, 0.1200)"
-      },
-      "500": {
-        "type": "color",
-        "value": "rgba(240, 177, 0, 0.1400)"
-      },
-      "600": {
-        "type": "color",
-        "value": "rgba(208, 135, 0, 0.1600)"
-      },
-      "700": {
-        "type": "color",
-        "value": "rgba(166, 95, 0, 0.2000)"
-      },
-      "800": {
-        "type": "color",
-        "value": "rgba(137, 75, 0, 0.2400)"
-      },
-      "900": {
-        "type": "color",
-        "value": "rgba(115, 62, 10, 0.2800)"
-      },
-      "950": {
-        "type": "color",
-        "value": "rgba(67, 32, 4, 0.3000)"
-      }
-    }
-  }
-}
-
 
 /* Alias.Mode 1.tokens.json */
 

@@ -253,6 +253,8 @@ textarea {
     --primitive-yellow-alpha-800: rgba(137, 75, 0, .24);
     --primitive-yellow-alpha-900: rgba(115, 62, 10, .28);
     --primitive-yellow-alpha-950: rgba(67, 32, 4, .3);
+
+    /* Alias Mode */
 }
 
 /* ==========================================================================

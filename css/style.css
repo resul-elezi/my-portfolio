@@ -443,6 +443,9 @@ nav > a:last-child {
   padding-right: var(--spacing-06);
   border-right: 1px var(--theme-stroke) solid;
 }
+.footer-nav a {
+  border-bottom: none;
+}
 .social-links {
   display: flex;
   justify-content: center;

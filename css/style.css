@@ -410,18 +410,22 @@ nav a {
   border-right: 1px var(--theme-stroke) solid;
 }
 nav > a:last-child {
+  margin-left: auto;
   border-right: none;
 }
 .main-nav {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
   border-bottom: 1px var(--theme-stroke) solid;
 }
+.logo {
+  /* flex: 2; */
+}
 .nav-links {
-  justify-self: flex-start;
   display: flex;
   justify-content: center;
 }
+
 .active-nav {
   border-bottom: 3px var(--primary-background) solid;
   color: var(--theme-heading-foreground);

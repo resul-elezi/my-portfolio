@@ -404,12 +404,24 @@ body {
 nav a {
   color: var(--theme-foreground);
   text-decoration: none;
+  font-size: var(--font-size-md);
+  line-height: var(--line-height-md);
+  padding: var(--spacing-05) var(--spacing-07);
+  border-right: 1px var(--theme-stroke) solid;
 }
 .main-nav {
-  padding: var(--spacing-05) var(--spacing-06);
+  /* padding: var(--spacing-05) var(--spacing-06); */
   display: flex;
   justify-content: space-between;
   border-bottom: 1px var(--theme-stroke) solid;
+}
+.nav-links {
+  display: flex;
+  justify-content: center;
+}
+.active-nav {
+  border-bottom: 3px var(--primary-background) solid;
+  color: var(--theme-heading-foreground);
 }
 
 /* ==========================================================================

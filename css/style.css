@@ -389,13 +389,14 @@ textarea {
 
 html {
   background: var(--theme-backdrop);
+  padding: 4.5rem;
   font-family: 'Fira Code';
   font-weight: normal;
   color: var(--theme-foreground);
 }
 body {
   max-width: 110rem;
-  margin: 4.5rem auto;
+  margin: 0 auto;
   background: var(--theme-background);
   border: var(--theme-stroke) 1px solid;
   border-radius: var(--radius-03);

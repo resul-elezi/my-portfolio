@@ -422,7 +422,6 @@ nav > a:last-child {
 .footer-nav {
   display: flex;
   align-items: center;
-  /* border-bottom: 1px var(--theme-stroke) solid; */
 }
 .logo {
   flex-basis: 17.5%;
@@ -436,7 +435,16 @@ nav > a:last-child {
   border-bottom: 3px var(--primary-background) inset;
   color: var(--theme-heading-foreground);
 }
-
+.footer-nav {
+  padding-inline: var(--spacing-07);
+}
+.git-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  border-left: 1px var(--theme-stroke) solid;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */

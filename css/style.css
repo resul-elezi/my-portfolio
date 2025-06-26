@@ -393,6 +393,9 @@ html {
   font-weight: normal;
   color: var(--theme-foreground);
 }
+nav a {
+  color: var(--theme-foreground);
+}
 
 /* ==========================================================================
    Helper classes

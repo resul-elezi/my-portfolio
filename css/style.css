@@ -418,7 +418,8 @@ nav > a:last-child {
   border-right: none;
   border-left: 1px var(--theme-stroke) solid;
 }
-.main-nav {
+.main-nav,
+.footer-nav {
   display: flex;
   align-items: center;
   /* border-bottom: 1px var(--theme-stroke) solid; */

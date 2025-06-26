@@ -446,9 +446,10 @@ nav > a:last-child {
 .footer-nav a {
   border-bottom: none;
   color: var(--primitive-slate-500);
+  transition: color .3s ease-in-out;
 }
 .footer-nav a:hover {
-  color: red;
+  color: var(--theme-foreground);
 }
 .social-links {
   display: flex;

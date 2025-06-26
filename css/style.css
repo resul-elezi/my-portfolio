@@ -462,12 +462,20 @@ nav > a:last-child {
 }
 .copyright {
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 0 auto;
+  color: var(--primitive-slate-600);
+  font-size: var(--font-size-sm);
+  font-weight: 300;
   /* justify-content: space-around; */
+}
+.copyright > span {
+  padding-right: var(--spacing-02);
 }
 .copyright a {
   border: none;
-  padding-inline: 0 var(--spacing-04);
+  padding-inline: 0 var(--spacing-03);
 }
 .git-link {
   display: inline;

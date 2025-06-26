@@ -389,6 +389,8 @@ textarea {
 
 html {
   background: var(--theme-backdrop);
+  font-family: 'Fira Code';
+  font-weight: normal;
 }
 
 /* ==========================================================================

@@ -1,22 +1,6 @@
 
 
 
-/* Spacing scale.Mode 1.tokens.json */
-
-{
-  "button": {
-    "top-bottom": {
-      "type": "number",
-      "value": 10
-    },
-    "left-right": {
-      "type": "number",
-      "value": 12
-    }
-  }
-}
-
-
 /* Radius.Mode 1.tokens.json */
 
 {

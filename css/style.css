@@ -302,6 +302,13 @@ textarea {
 
     --button-top-bottom: .625rem;
     --button-left-right: .75rem;
+
+    /* Radius Mode */
+
+    --radius-01: .125rem;
+    --radius-02: .25rem;
+    --radius-03: .5rem;
+    --radius-04: 1rem;
 }
 
 /* ==========================================================================

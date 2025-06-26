@@ -4,50 +4,6 @@
 /* Spacing scale.Mode 1.tokens.json */
 
 {
-  "0": {
-    "type": "number",
-    "value": 0
-  },
-  "1": {
-    "type": "number",
-    "value": 2
-  },
-  "2": {
-    "type": "number",
-    "value": 4
-  },
-  "3": {
-    "type": "number",
-    "value": 8
-  },
-  "4": {
-    "type": "number",
-    "value": 12
-  },
-  "5": {
-    "type": "number",
-    "value": 16
-  },
-  "6": {
-    "type": "number",
-    "value": 24
-  },
-  "7": {
-    "type": "number",
-    "value": 32
-  },
-  "8": {
-    "type": "number",
-    "value": 40
-  },
-  "9": {
-    "type": "number",
-    "value": 48
-  },
-  "10": {
-    "type": "number",
-    "value": 64
-  },
   "button": {
     "top-bottom": {
       "type": "number",

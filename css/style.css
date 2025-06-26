@@ -404,6 +404,10 @@ body {
 nav a {
   color: var(--theme-foreground);
 }
+.main-nav {
+  display: flex;
+  justify-content: space-around;
+}
 
 /* ==========================================================================
    Helper classes

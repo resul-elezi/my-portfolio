@@ -205,6 +205,18 @@ textarea {
     --primitive-red-alpha-800: rgba(159, 7, 18, .24);
     --primitive-red-alpha-900: rgba(130, 24, 26, .28);
     --primitive-red-alpha-950: rgba(70, 8, 9, .3);
+
+    --primitive-green-50: #f0fdf4;
+    --primitive-green-100: #dcfce7;
+    --primitive-green-200: #b9f8cf;
+    --primitive-green-300: #7bf1a7;
+    --primitive-green-400: #05df72;
+    --primitive-green-500: #00c950;
+    --primitive-green-600: #00a63e;
+    --primitive-green-700: #008235;
+    --primitive-green-800: #016630;
+    --primitive-green-900: #0d542b;
+    --primitive-green-950: #032e15;
 }
 
 /* ==========================================================================

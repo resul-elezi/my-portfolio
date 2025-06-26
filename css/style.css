@@ -286,6 +286,8 @@ textarea {
     --warning-hover: var(--primitive-yellow-400);
     --warning-hover-inverted: var(--primitive-slate-950);
     --warning-alpha: var(--primitive-yellow-alpha-950);
+
+    /* Spacing scale */
 }
 
 /* ==========================================================================

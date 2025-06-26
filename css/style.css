@@ -439,10 +439,11 @@ nav > a:last-child {
   padding-inline: var(--spacing-07);
 }
 .git-link {
-  display: flex;
-  justify-content: center;
+  display: inline;
+  justify-content: space-between;
   align-items: center;
   margin-left: auto;
+  padding-right: 0;
   border-left: 1px var(--theme-stroke) solid;
 }
 /* ==========================================================================

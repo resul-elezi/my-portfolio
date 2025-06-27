@@ -423,7 +423,9 @@ nav > a:last-child {
   display: flex;
   align-items: center;
 }
-
+.main-nav a {
+  transition: color .3s ease-in-out;
+}
 .main-nav a:hover {
   color: var(--theme-heading-foreground);
 }

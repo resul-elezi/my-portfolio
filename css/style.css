@@ -423,6 +423,10 @@ nav > a:last-child {
   display: flex;
   align-items: center;
 }
+
+.main-nav a:hover {
+  color: var(--theme-heading-foreground);
+}
 .logo {
   flex-basis: 17.5%;
 }

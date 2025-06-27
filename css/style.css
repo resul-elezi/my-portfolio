@@ -460,6 +460,7 @@ main {
 
 .footer-nav {
   padding-inline: var(--spacing-07);
+  border-top: 1px var(--theme-stroke) solid;
 }
 .footer-nav > p {
   padding-block: var(--spacing-05);

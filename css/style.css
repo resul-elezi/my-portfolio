@@ -396,14 +396,9 @@ html {
 }
 body {
   max-width: 110rem;
-  min-height: 100vh;
-  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  /* background: var(--theme-background); */
-  /* border: 1px var(--theme-stroke) solid; */
-  /* border-radius: var(--radius-03); */
 }
 header {
   border: 1px var(--theme-stroke) solid;
@@ -456,8 +451,9 @@ nav > a:last-child {
 main {
   display: flex;
   flex: 1;
+  min-height: 100vh;
+  min-height: 100dvh;
   background: var(--theme-background);
-  /* border: 1px var(--theme-stroke) solid; */
   border-inline: 1px solid var(--theme-stroke);
 }
 

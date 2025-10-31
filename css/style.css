@@ -406,7 +406,7 @@ body {
   /* border-radius: var(--radius-03); */
 }
 header {
-  border-bottom: 1px var(--theme-stroke) solid;
+  border: 1px var(--theme-stroke) solid;
 }
 nav a {
   color: var(--theme-foreground);

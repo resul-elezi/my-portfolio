@@ -407,6 +407,8 @@ body {
 }
 header {
   border: 1px var(--theme-stroke) solid;
+  border-radius: var(--radius-03) var(--radius-03) 0 0;
+  overflow: hidden;
 }
 nav a {
   color: var(--theme-foreground);
@@ -464,7 +466,8 @@ main {
 
 .footer-nav {
   padding-inline: var(--spacing-07);
-  border-top: 1px var(--theme-stroke) solid;
+  border: 1px var(--theme-stroke) solid;
+  border-radius: 0 0 var(--radius-03) var(--radius-03);
 }
 .footer-nav > p {
   padding-block: var(--spacing-05);

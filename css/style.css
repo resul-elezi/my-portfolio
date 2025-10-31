@@ -512,6 +512,11 @@ main {
   border: none;
   padding-inline: 0 var(--spacing-03);
   color: var(--primitive-slate-600);
+  text-decoration: none;
+  transition: color .3s ease-in-out;
+}
+.copyright a:hover {
+  color: var(--primitive-slate-500);
 }
 .git-link {
   display: inline;

@@ -491,6 +491,15 @@ main {
 .in-link {
   padding: var(--spacing-05);
 }
+/* .x-link svg,
+.in-link svg {
+  transition: color .3s ease-in-out;
+}
+.x-link svg:hover,
+.in-link svg:hover {
+  color: var(--theme-foreground);
+} */
+
 .copyright {
   display: flex;
   justify-content: center;
@@ -525,8 +534,9 @@ main {
   margin-left: auto;
   padding-right: 0;
   border-left: 1px var(--theme-stroke) solid;
+  transition: color .3s ease-in-out;
 }
-.git-link span {
+.git-link:hover {
   color: var(--theme-foreground);
 }
 /* ==========================================================================

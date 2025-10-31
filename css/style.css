@@ -397,6 +397,8 @@ html {
 body {
   max-width: 110rem;
   display: flex;
+  /* min-height: 100vh;
+  min-height: 100dvh; */
   flex-direction: column;
   margin: 0 auto;
 }

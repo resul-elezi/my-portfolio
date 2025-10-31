@@ -401,9 +401,9 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  background: var(--theme-background);
-  border: 1px var(--theme-stroke) solid;
-  border-radius: var(--radius-03);
+  /* background: var(--theme-background); */
+  /* border: 1px var(--theme-stroke) solid; */
+  /* border-radius: var(--radius-03); */
 }
 header {
   border-bottom: 1px var(--theme-stroke) solid;
@@ -426,6 +426,7 @@ nav > a:last-child {
 .footer-nav {
   display: flex;
   align-items: center;
+  background: var(--theme-background);
 }
 .main-nav a {
   transition: color .3s ease-in-out;
@@ -453,6 +454,9 @@ nav > a:last-child {
 main {
   display: flex;
   flex: 1;
+  background: var(--theme-background);
+  /* border: 1px var(--theme-stroke) solid; */
+  border-inline: 1px solid var(--theme-stroke);
 }
 
 /* /Main section */

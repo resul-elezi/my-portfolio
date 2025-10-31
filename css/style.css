@@ -389,7 +389,7 @@ textarea {
 
 html {
   background: var(--theme-backdrop);
-  padding: 4.5rem;
+  /* padding: 4.5rem; */
   font-family: 'Fira Code';
   font-weight: normal;
   color: var(--theme-foreground);
@@ -397,8 +397,10 @@ html {
 body {
   max-width: 110rem;
   display: flex;
-  /* min-height: 100vh;
-  min-height: 100dvh; */
+  /* justify-content: center; */
+  padding: 4.5rem;
+  min-height: 100vh;
+  min-height: 100dvh;
   flex-direction: column;
   margin: 0 auto;
 }
@@ -453,8 +455,8 @@ nav > a:last-child {
 main {
   display: flex;
   flex: 1;
-  min-height: 100vh;
-  min-height: 100dvh;
+  /* min-height: 100vh;
+  min-height: 100dvh; */
   background: var(--theme-background);
   border-inline: 1px solid var(--theme-stroke);
 }
@@ -493,7 +495,8 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 3rem auto;
+  /* margin: 3rem auto; */
+  margin-top: 2rem;
   color: var(--primitive-slate-600);
   font-size: var(--font-size-sm);
   font-weight: 300;

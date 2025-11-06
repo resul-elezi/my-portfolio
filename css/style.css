@@ -480,12 +480,14 @@ main {
 
 .my-name {
   font-size: var(--heading-h1);
+  font-weight: normal;
   line-height: var(--line-height-h1);
   color: var(--theme-heading-foreground);
 }
 
 .job-title {
   font-size: var(--heading-h4);
+  font-weight: normal;
   line-height: var(--line-height-h4);
   color: var(--primitive-indigo-500);
 }

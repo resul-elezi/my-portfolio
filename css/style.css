@@ -480,7 +480,7 @@ main {
 
 .my-name {
   font-size: var(--heading-h1);
-  font-weight: normal;
+  font-weight: 500;
   line-height: var(--line-height-h1);
   color: var(--theme-heading-foreground);
 }

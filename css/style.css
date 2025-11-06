@@ -480,6 +480,8 @@ main {
 
 .my-name {
   font-size: var(--heading-h1);
+  line-height: var(--line-height-h1);
+  color: var(--theme-heading-foreground);
 }
 
 /* /main-left */

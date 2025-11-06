@@ -484,6 +484,12 @@ main {
   color: var(--theme-heading-foreground);
 }
 
+.job-title {
+  font-size: var(--heading-h4);
+  line-height: var(--line-height-h4);
+  color: var(--primitive-indigo-500);
+}
+
 /* /main-left */
 
 

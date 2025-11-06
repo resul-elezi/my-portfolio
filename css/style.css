@@ -478,6 +478,10 @@ main {
   color: var(--theme-foreground);
 }
 
+.my-name {
+  font-size: var(--heading-h1);
+}
+
 /* /main-left */
 
 

@@ -478,7 +478,6 @@ main {
 .introduction {
   font-size: var(--font-size-lg);
   line-height: var(--line-height-lg);
-  color: var(--theme-foreground);
 }
 
 .my-name {
@@ -500,6 +499,7 @@ main {
   flex-direction: column;
   font-size: var(--font-size-md);
   line-height: var(--line-height-md);
+
 }
 
 /* /main-left */

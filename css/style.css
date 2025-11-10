@@ -400,6 +400,7 @@ body {
   display: flex;
   /* justify-content: center; */
   padding: 4.5rem;
+  padding-bottom: 3.1rem;
   min-height: 100vh;
   min-height: 100dvh;
   flex-direction: column;

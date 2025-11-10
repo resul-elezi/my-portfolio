@@ -466,7 +466,6 @@ main {
   display: flex;
   flex: 1;
   justify-content: space-between;
-  padding: 4rem 17.5%;
   /* min-height: 100vh;
   min-height: 100dvh; */
   background: var(--theme-background);
@@ -481,6 +480,7 @@ main {
 }
 
 .my-name {
+  margin-top: .25rem;
   font-size: var(--heading-h1);
   font-weight: 500;
   line-height: var(--line-height-h1);
@@ -488,6 +488,7 @@ main {
 }
 
 .job-title {
+  margin-top: .5rem;
   font-size: var(--heading-h4);
   font-weight: normal;
   line-height: var(--line-height-h4);
@@ -495,6 +496,7 @@ main {
 }
 
 .link-div {
+  margin-top: 5rem;
   display: flex;
   flex-direction: column;
   font-size: var(--font-size-md);

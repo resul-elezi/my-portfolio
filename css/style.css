@@ -465,7 +465,8 @@ nav>a:last-child {
 main {
   display: flex;
   flex: 1;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
   /* min-height: 100vh;
   min-height: 100dvh; */
   background: var(--theme-background);

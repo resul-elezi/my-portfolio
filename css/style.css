@@ -467,8 +467,6 @@ main {
   flex: 1;
   justify-content: center;
   align-items: center;
-  /* min-height: 100vh;
-  min-height: 100dvh; */
   background: var(--theme-background);
   border-inline: 1px solid var(--theme-stroke);
 }

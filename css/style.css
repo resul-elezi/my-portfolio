@@ -475,7 +475,7 @@ main {
 
 /* main-left */
 
-.greeting {
+.introduction {
   font-size: var(--font-size-lg);
   line-height: var(--line-height-lg);
   color: var(--theme-foreground);

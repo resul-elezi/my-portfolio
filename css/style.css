@@ -515,6 +515,10 @@ main {
   color: var(--primitive-teal-400);
 }
 
+.const-link {
+  color: var(--theme-link-foreground);
+}
+
 /* /main-left */
 
 

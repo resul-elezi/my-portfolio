@@ -517,6 +517,7 @@ main {
 
 .const-link {
   color: var(--theme-link-foreground);
+  text-decoration: none;
 }
 
 /* /main-left */

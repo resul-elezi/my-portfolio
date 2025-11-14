@@ -507,6 +507,10 @@ main {
   color: var(--theme-heading-foreground);
 }
 
+.const {
+  color: var(--primitive-indigo-500);
+}
+
 /* /main-left */
 
 

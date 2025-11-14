@@ -503,6 +503,10 @@ main {
 
 }
 
+.git-link-hero {
+  color: var(--theme-heading-foreground);
+}
+
 /* /main-left */
 
 

@@ -511,6 +511,10 @@ main {
   color: var(--primitive-indigo-500);
 }
 
+.const-name {
+  color: var(--primitive-teal-400);
+}
+
 /* /main-left */
 
 
